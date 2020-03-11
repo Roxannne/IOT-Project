@@ -1,0 +1,26 @@
+String page = "<!DOCTYPE html>"
+    "<html>"
+    "<head>"
+    "  <meta charset=\"utf-8\"/>"
+    "  <style type=\"text/css\">"
+    "  </style>"
+    "</head>"
+    "<body>"
+    "<form method=\"POST\" action=\"\Validate\">"
+    "<div class=\"city\"><input type=\"text\" name=\"ville\" placeholder=\"Name of the city\"></div>"
+    "<div class=\"ok\"><input type=\"submit\" value=\"submit\"></div>"
+    "</form>"
+    "<form method=\"POST\" action=\"/Color\">"
+    "<div class=\"couleur\"><input type=\"submit\" value=\"Color mode\"></div>"
+    "</form>"
+    "<form method=\"POST\" action=\"\Intensity\">"
+    "<div class=\"intensity\"><input type=\"submit\" value=\"Intensity mode\"></div>"
+    "</form>"
+    "<form method=\"POST\" action=\"\Time\">"
+    "<div class=\"time\"><input type=\"submit\" value=\"Time mode\"></div>"
+    "</form>"
+    "</body>"
+    "</html>";
+
+
+    
